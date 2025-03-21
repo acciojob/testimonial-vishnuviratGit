@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#main{
+	background-color: #f5f5f5;
+	padding: 20px 
+	
+}
+.testi{
+	background-color: white;
+	padding: 5px;
+	margin: 20px 5px;
+	border: 1px solid black
+	
+}
+
